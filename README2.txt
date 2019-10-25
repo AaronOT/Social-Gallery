@@ -8,4 +8,6 @@ En la base de datos ya hay cuatro imagenes introducidas con su respectivo id de 
 No he conseguido comparar las imagenes para que te diga si la imagen seleccionada 
 ya habia sido introducida.
 
-Ya hay dos usuarios introducidos en la tabla usuario, el de Aarón y el de Danny, la contraseña es 1234.
+Ya hay dos usuarios introducidos en la tabla usuario, el de AarÃ³n y el de Danny, la contraseÃ±a es 1234.
+
+Link para ver la pagina de presentaciÃ³ -->   https://aaronot.github.io/Social-Gallery/
